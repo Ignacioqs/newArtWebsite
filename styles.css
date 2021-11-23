@@ -104,6 +104,7 @@ p {
   position: absolute;
   top: 50%;
   width: 100%;
+  /* max-height: 500px; */
   left: 50%;
   transform: translate(-50%, -50%) scale(0.5);
   transition: all 0.25s ease-out;
